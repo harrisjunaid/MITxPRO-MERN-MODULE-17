@@ -1,45 +1,37 @@
-// Create a class for the element
-class Book extends HTMLElement {
-    constructor() {
-        super();
-    }
+function Book({data}){
+    return (
 
-    set book(book){
-        this.innerHTML = `
-            <div class="card">
-              <h5 class="card-header">${book.title}</h5>
-              <div class="card-body">
-                <h5>${book.subtitle}</h5>
-                    <p class="card-text">
-                    <table class="table">
-                        <tr>
-                            <td class="text-success font-weight-bold">Title:</td>
-                            <td>${book.title}</td>
-                        </tr>
-                        <tr>
-                            <td class="text-success font-weight-bold">Subtitle:</td>
-                            <td>${book.subtitle}</td>
-                        </tr>
-                        <tr>
-                            <td class="text-success font-weight-bold">Author:</td>
-                            <td>${book.author}</td>
-                        </tr>
-                        <tr>
-                            <td class="text-success font-weight-bold">Publisher:</td>
-                            <td>${book.publisher}</td>
-                        </tr>
-                        <tr>
-                            <td class="text-success font-weight-bold">Description:</td>
-                            <td>${book.description}</td>
-                        </tr>
-                    </table>
-                    </p>
-              </div>
+        <div className="card">
+            <h5 className="card-header">{data.title}</h5>
+            <div className="card-body">
+            <h5>{data.subtitle}</h5>
+
+                <table className="table">
+                  <tbody>
+                    <tr>
+                        <td className="text-success font-weight-bold">Title:</td>
+                        <td>{data.title}</td>
+                    </tr>
+                    <tr>
+                        <td className="text-success font-weight-bold">Subtitle:</td>
+                        <td>{data.subtitle}</td>
+                    </tr>
+                    <tr>
+                        <td className="text-success font-weight-bold">Author:</td>
+                        <td>{data.author}</td>
+                    </tr>
+                    <tr>
+                        <td className="text-success font-weight-bold">Publisher:</td>
+                        <td>{data.publisher}</td>
+                    </tr>
+                    <tr>
+                        <td className="text-success font-weight-bold">Description:</td>
+                        <td>{data.description}</td>
+                    </tr>
+                  </tbody>
+                </table>
+
             </div>
-    `;    
+        </div>
 
-  }
-}
-
-// Define the new element
-customElements.define('mit-book', Book);
+)}
