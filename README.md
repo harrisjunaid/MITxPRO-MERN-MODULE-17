@@ -61,6 +61,11 @@
 [![Product Name Screen Shot][product-screenshot]](./assets/https://example.com)
 
 
+### [17-5      Create Custom Element - Web Component](https://classroom.emeritus.org/courses/1173/pages/video-17-5-17-6-18-24-create-custom-element-web-component-and-create-web-components-programmatically?module_item_id=290846)
+
+
+<br/>
+
 ### [17-4      Web Components With Bootstrap](https://classroom.emeritus.org/courses/1173/pages/video-17-3-17-4-7-49-introduction-to-components-html-to-react-and-web-components?module_item_id=290845)
 
 
