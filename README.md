@@ -60,6 +60,11 @@
 
 [![Product Name Screen Shot][product-screenshot]](./assets/https://example.com)
 
+### [17-13              Listening To Browser Events](https://classroom.emeritus.org/courses/1173/pages/video-17-12-17-13-7-34-same-page-linking-and-listening-to-browser-events?module_item_id=290853)
+
+
+<br/>
+
 ### [17-12             Same Page Linking](https://classroom.emeritus.org/courses/1173/pages/video-17-12-17-13-7-34-same-page-linking-and-listening-to-browser-events?module_item_id=290853)
 
 

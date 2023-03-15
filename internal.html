@@ -1,3 +1,10 @@
+  <script >
+    const callback = (e) => {
+      console.log(e);
+      console.log("location Hash Changed");
+    }
+    window.addEventListener('hashchange', callback);    
+  </script>
 
   <style>
     .anchor{
