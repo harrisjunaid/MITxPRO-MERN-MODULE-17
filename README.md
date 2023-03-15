@@ -60,6 +60,11 @@
 
 [![Product Name Screen Shot][product-screenshot]](./assets/https://example.com)
 
+### [17-8         Web Components In React](https://classroom.emeritus.org/courses/1173/pages/video-17-7-17-8-20-27-react-components-and-web-components-in-react?module_item_id=290847)
+
+
+<br/>
+
 ### [17-7        React Components](https://classroom.emeritus.org/courses/1173/pages/video-17-7-17-8-20-27-react-components-and-web-components-in-react?module_item_id=290847)
 
 

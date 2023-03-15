@@ -1,37 +1,49 @@
-function Book({data}){
-    return (
+// Create a class for the element
+class Book extends HTMLElement {
+    constructor() {
+        super();
+    }
 
-        <div className="card">
-            <h5 className="card-header">{data.title}</h5>
-            <div className="card-body">
-            <h5>{data.subtitle}</h5>
-
-                <table className="table">
-                  <tbody>
-                    <tr>
-                        <td className="text-success font-weight-bold">Title:</td>
-                        <td>{data.title}</td>
-                    </tr>
-                    <tr>
-                        <td className="text-success font-weight-bold">Subtitle:</td>
-                        <td>{data.subtitle}</td>
-                    </tr>
-                    <tr>
-                        <td className="text-success font-weight-bold">Author:</td>
-                        <td>{data.author}</td>
-                    </tr>
-                    <tr>
-                        <td className="text-success font-weight-bold">Publisher:</td>
-                        <td>{data.publisher}</td>
-                    </tr>
-                    <tr>
-                        <td className="text-success font-weight-bold">Description:</td>
-                        <td>{data.description}</td>
-                    </tr>
-                  </tbody>
-                </table>
-
+    connectedCallback() {
+        const title    = this.getAttribute('title');
+        const subtitle = this.getAttribute('subtitle');
+        const author   = this.getAttribute('author');
+        const publisher = this.getAttribute('publisher');
+        const description = this.getAttribute('description');
+        this.innerHTML = `
+            <div class="card">
+              <h5 class="card-header">${title}</h5>
+              <div class="card-body">
+                <h5>${subtitle}</h5>
+                    <p class="card-text">
+                    <table class="table">
+                        <tr>
+                            <td class="text-success font-weight-bold">Title:</td>
+                            <td>${title}</td>
+                        </tr>
+                        <tr>
+                            <td class="text-success font-weight-bold">Subtitle:</td>
+                            <td>${subtitle}</td>
+                        </tr>
+                        <tr>
+                            <td class="text-success font-weight-bold">Author:</td>
+                            <td>${author}</td>
+                        </tr>
+                        <tr>
+                            <td class="text-success font-weight-bold">Publisher:</td>
+                            <td>${publisher}</td>
+                        </tr>
+                        <tr>
+                            <td class="text-success font-weight-bold">Description:</td>
+                            <td>${description}</td>
+                        </tr>
+                    </table>
+                    </p>
+              </div>
             </div>
-        </div>
+        `;  
+    }
+}
 
-)}
+// Define the new element
+customElements.define('mit-book', Book);
