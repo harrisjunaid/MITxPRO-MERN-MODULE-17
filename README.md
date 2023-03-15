@@ -60,6 +60,11 @@
 
 [![Product Name Screen Shot][product-screenshot]](./assets/https://example.com)
 
+### [17-12             Same Page Linking](https://classroom.emeritus.org/courses/1173/pages/video-17-12-17-13-7-34-same-page-linking-and-listening-to-browser-events?module_item_id=290853)
+
+
+<br/>
+
 
 ### [17-11            Route Using Buttons](https://classroom.emeritus.org/courses/1173/pages/video-17-10-17-11-10-20-overview-of-frameworks-and-routing-and-route-using-buttons?module_item_id=290852)
 
