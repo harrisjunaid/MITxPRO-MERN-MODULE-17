@@ -21,20 +21,8 @@
     <img src="./assets/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
+  <h3 align="center">Module 17: Working With React Components</h3>
+  
 </div>
 
 
@@ -72,16 +60,23 @@
 
 [![Product Name Screen Shot][product-screenshot]](./assets/https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+### [17-4      Web Components With Bootstrap](https://classroom.emeritus.org/courses/1173/pages/video-17-3-17-4-7-49-introduction-to-components-html-to-react-and-web-components?module_item_id=290845)
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
-Use the `BLANK_README.md` to get started.
+<br/>
+
+
+### [17-3     Introduction To Components - HTML To React](https://classroom.emeritus.org/courses/1173/pages/video-17-3-17-4-7-49-introduction-to-components-html-to-react-and-web-components?module_item_id=290845)
+
+
+
+
+<br/>
+
+### [17-2    Styling Components With Bootstrap](https://classroom.emeritus.org/courses/1173/pages/video-17-1-17-2-13-35-introduction-to-styling-with-bootstrap-and-styling-components?module_item_id=290843)
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
