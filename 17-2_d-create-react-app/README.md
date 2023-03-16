@@ -134,6 +134,9 @@
 `C) Bootstrap with React component`
 ![17-2_c.drawio.svg](assets/17-2_c.drawio.svg)
 
+`D) Bootstrap with React using create-react-app`
+![17-2_d.drawio.svg](assets/17-2_d.drawio.svg)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
