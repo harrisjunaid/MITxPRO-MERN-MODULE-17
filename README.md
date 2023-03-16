@@ -110,7 +110,7 @@
 
 ### [17-4      Web Components With Bootstrap](https://classroom.emeritus.org/courses/1173/pages/video-17-3-17-4-7-49-introduction-to-components-html-to-react-and-web-components?module_item_id=290845)
 
-`Bootstrap in HTML file standalone`
+`Bootstrap card component with book table description`
 ![17-4.drawio.png](assets/17-4.drawio.png)
 
 <br/>
