@@ -126,10 +126,12 @@
 <br/>
 
 `A) Bootstrap in HTML file standalone`
-![Alt text](assets/17-2_a.drawio.svg)
+![17-2_a.drawio.svg](assets/17-2_a.drawio.svg)
+
+`B) Bootstrap with React in HTML file standalone`
+![17-2_b.drawio.svg](assets/17-2_b.drawio.svg)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ### Built With
 
