@@ -112,7 +112,6 @@
 
 `Bootstrap in HTML file standalone`
 ![17-4.drawio.png](assets/17-4.drawio.png)
-https://getbootstrap.com/docs/5.3/getting-started/introduction/
 
 <br/>
 
