@@ -128,11 +128,14 @@
 `A) Bootstrap in HTML file standalone`
 ![17-2_a.drawio.svg](assets/17-2_a.drawio.svg)
 
+
 `B) Bootstrap with React in HTML file standalone`
 ![17-2_b.drawio.svg](assets/17-2_b.drawio.svg)
 
+
 `C) Bootstrap with React component`
 ![17-2_c.drawio.svg](assets/17-2_c.drawio.svg)
+
 
 `D) Bootstrap with React using create-react-app`
 ![17-2_d.drawio.svg](assets/17-2_d.drawio.svg)
