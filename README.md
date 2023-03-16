@@ -123,10 +123,12 @@
 
 ### [17-2    Styling Components With Bootstrap](https://classroom.emeritus.org/courses/1173/pages/video-17-1-17-2-13-35-introduction-to-styling-with-bootstrap-and-styling-components?module_item_id=290843)
 
+<br/>
 
+`A) Bootstrap in HTML file standalone`
+![Alt text](assets/17-2_a.drawio.svg)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
