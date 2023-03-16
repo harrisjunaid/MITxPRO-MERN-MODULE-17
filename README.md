@@ -131,6 +131,11 @@
 `B) Bootstrap with React in HTML file standalone`
 ![17-2_b.drawio.svg](assets/17-2_b.drawio.svg)
 
+`C) Bootstrap with React component`
+![17-2_c.drawio.svg](assets/17-2_c.drawio.svg)
+
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
