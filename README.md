@@ -60,14 +60,60 @@
 
 [![Product Name Screen Shot][product-screenshot]](./assets/https://example.com)
 
+### [17-13              Listening To Browser Events](https://classroom.emeritus.org/courses/1173/pages/video-17-12-17-13-7-34-same-page-linking-and-listening-to-browser-events?module_item_id=290853)
+
+
+<br/>
+
+### [17-12             Same Page Linking](https://classroom.emeritus.org/courses/1173/pages/video-17-12-17-13-7-34-same-page-linking-and-listening-to-browser-events?module_item_id=290853)
+
+
+<br/>
+
+
+### [17-11            Route Using Buttons](https://classroom.emeritus.org/courses/1173/pages/video-17-10-17-11-10-20-overview-of-frameworks-and-routing-and-route-using-buttons?module_item_id=290852)
+
+
+<br/>
+
+### [17-10           Overview of Frameworks And Routing](https://classroom.emeritus.org/courses/1173/pages/video-17-10-17-11-10-20-overview-of-frameworks-and-routing-and-route-using-buttons?module_item_id=290852)
+
+
+<br/>
+
+### [17-9          Introduction To Routing And The Single-Page Application](https://classroom.emeritus.org/courses/1173/pages/video-17-9-1-59-introduction-to-routing-and-the-single-page-application?module_item_id=290850)
+
+
+<br/>
+
+### [17-8         Web Components In React](https://classroom.emeritus.org/courses/1173/pages/video-17-7-17-8-20-27-react-components-and-web-components-in-react?module_item_id=290847)
+
+
+<br/>
+
+### [17-7        React Components](https://classroom.emeritus.org/courses/1173/pages/video-17-7-17-8-20-27-react-components-and-web-components-in-react?module_item_id=290847)
+
+
+<br/>
+
+
+### [17-6       Create Web Components Programmatically](https://classroom.emeritus.org/courses/1173/pages/video-17-5-17-6-18-24-create-custom-element-web-component-and-create-web-components-programmatically?module_item_id=290846)
+
+
+<br/>
+
 
 ### [17-5      Create Custom Element - Web Component](https://classroom.emeritus.org/courses/1173/pages/video-17-5-17-6-18-24-create-custom-element-web-component-and-create-web-components-programmatically?module_item_id=290846)
 
+`Custom web component`
+![17-5.drawio.png](assets/17-5.drawio.png)
 
 <br/>
 
 ### [17-4      Web Components With Bootstrap](https://classroom.emeritus.org/courses/1173/pages/video-17-3-17-4-7-49-introduction-to-components-html-to-react-and-web-components?module_item_id=290845)
 
+`Bootstrap card component with book table description`
+![17-4.drawio.png](assets/17-4.drawio.png)
 
 <br/>
 
@@ -81,11 +127,26 @@
 
 ### [17-2    Styling Components With Bootstrap](https://classroom.emeritus.org/courses/1173/pages/video-17-1-17-2-13-35-introduction-to-styling-with-bootstrap-and-styling-components?module_item_id=290843)
 
+<br/>
+
+`A) Bootstrap in HTML file standalone`
+![17-2_a.drawio.png](assets/17-2_a.drawio.png)
+
+
+`B) Bootstrap with React in HTML file standalone`
+![17-2_b.drawio.png](assets/17-2_b.drawio.png)
+
+
+`C) Bootstrap with React component`
+![17-2_c.drawio.png](assets/17-2_c.drawio.png)
+
+
+`D) Bootstrap with React using create-react-app`
+![17-2_d.drawio.png](assets/17-2_d.drawio.png)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
@@ -228,9 +289,9 @@ Useful resources:
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/harrisjunaid/MITxPRO-MERN-MODULE-17/blob/main/LICENSE.lic
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/harris-junaid/
 [product-screenshot]: ./assets/images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
