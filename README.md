@@ -149,30 +149,6 @@
 
 
 
-## Routing And The Single Page Application
-
-### [17-9         Introduction To Routing And The Single-Page Application](https://classroom.emeritus.org/courses/1173/pages/video-17-9-1-59-introduction-to-routing-and-the-single-page-application?module_item_id=290850)
-
-important factors to consider when routing within the same page
-
- Single-Page Application(SPA):
-  SPA in browser gives similar user experience as is in a native desktop application.
-  Navigation is omitted by keeping the user on the same page once loaded.
-  UI and data updation is done by manipulating the same page.
-  Routing within a single page with no front-end framework is implemented simply using HTML and JavaScript.
-
-  Route using buttons and fetch the capability of browser to reach out and take content or bring content in. 
-  Some of the same page linking, we will be looking at browser events and URL access within JavaScript.
-  How do we route using location hash and how to provide the right history to the browser so that if you're moving back and forwards, the history works as users would expect it. We'll also look at some of the optimizations that you can do and some of the bumps that you might find if you're trying to create this for yourself. If, say you 
-were trying to create a library, again, once again, we are doing this simply to illustrate some of 
-the design decisions that those in the front-end frameworks have had to do. 
-
-
-### [17-10    Overview of Frameworks And Routing](https://classroom.emeritus.org/courses/1173/pages/video-17-10-17-11-10-20-overview-of-frameworks-and-routing-and-route-using-buttons?module_item_id=290852)
-
-information architecture: share information about an organization. 20 pages like About, Team, Contact, Products and Services.
-Historically independent pages linked together. May have site map to overview all the information on the site. Server round trip causes delay. Even 10th of a second has significant impact on user experience.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
