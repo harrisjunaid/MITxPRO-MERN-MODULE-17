@@ -47,5 +47,6 @@ class Book extends HTMLElement {
   }
   
   // Define the new element
+  //                   ('component-name', class)
   customElements.define('mit-book', Book);
   
