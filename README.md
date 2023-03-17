@@ -105,7 +105,7 @@
 
 ### [17-5      Create Custom Element - Web Component](https://classroom.emeritus.org/courses/1173/pages/video-17-5-17-6-18-24-create-custom-element-web-component-and-create-web-components-programmatically?module_item_id=290846)
 
-`Custom web component`
+`Custom web component: Extending the amount of tags recognized by the browser`
 ![17-5.drawio.png](assets/17-5.drawio.png)
 
 <br/>
