@@ -60,72 +60,6 @@
 
 [![Product Name Screen Shot][product-screenshot]](./assets/https://example.com)
 
-### [17-13              Listening To Browser Events](https://classroom.emeritus.org/courses/1173/pages/video-17-12-17-13-7-34-same-page-linking-and-listening-to-browser-events?module_item_id=290853)
-
-
-<br/>
-
-### [17-12             Same Page Linking](https://classroom.emeritus.org/courses/1173/pages/video-17-12-17-13-7-34-same-page-linking-and-listening-to-browser-events?module_item_id=290853)
-
-
-<br/>
-
-
-### [17-11            Route Using Buttons](https://classroom.emeritus.org/courses/1173/pages/video-17-10-17-11-10-20-overview-of-frameworks-and-routing-and-route-using-buttons?module_item_id=290852)
-
-
-<br/>
-
-### [17-10           Overview of Frameworks And Routing](https://classroom.emeritus.org/courses/1173/pages/video-17-10-17-11-10-20-overview-of-frameworks-and-routing-and-route-using-buttons?module_item_id=290852)
-
-
-<br/>
-
-### [17-9          Introduction To Routing And The Single-Page Application](https://classroom.emeritus.org/courses/1173/pages/video-17-9-1-59-introduction-to-routing-and-the-single-page-application?module_item_id=290850)
-
-
-<br/>
-
-### [17-8         Web Components In React](https://classroom.emeritus.org/courses/1173/pages/video-17-7-17-8-20-27-react-components-and-web-components-in-react?module_item_id=290847)
-
-
-<br/>
-
-### [17-7        React Components](https://classroom.emeritus.org/courses/1173/pages/video-17-7-17-8-20-27-react-components-and-web-components-in-react?module_item_id=290847)
-
-
-<br/>
-
-
-### [17-6       Create Web Components Programmatically](https://classroom.emeritus.org/courses/1173/pages/video-17-5-17-6-18-24-create-custom-element-web-component-and-create-web-components-programmatically?module_item_id=290846)
-
-`Data in JSON list`
-![17-6.drawio.png](assets/17-6.drawio.png)
-
-
-<br/>
-
-
-### [17-5      Create Custom Element - Web Component](https://classroom.emeritus.org/courses/1173/pages/video-17-5-17-6-18-24-create-custom-element-web-component-and-create-web-components-programmatically?module_item_id=290846)
-
-`Custom web component: Extending the amount of tags recognized by the browser`
-![17-5.drawio.png](assets/17-5.drawio.png)
-
-<br/>
-
-### [17-4      Web Components With Bootstrap](https://classroom.emeritus.org/courses/1173/pages/video-17-3-17-4-7-49-introduction-to-components-html-to-react-and-web-components?module_item_id=290845)
-
-`Bootstrap card component with book table description`
-![17-4.drawio.png](assets/17-4.drawio.png)
-
-<br/>
-
-
-### [17-3     Introduction To Components - HTML To React](https://classroom.emeritus.org/courses/1173/pages/video-17-3-17-4-7-49-introduction-to-components-html-to-react-and-web-components?module_item_id=290845)
-
-
-
-
 <br/>
 
 ### [17-2    Styling Components With Bootstrap](https://classroom.emeritus.org/courses/1173/pages/video-17-1-17-2-13-35-introduction-to-styling-with-bootstrap-and-styling-components?module_item_id=290843)
@@ -147,31 +81,61 @@
 `D) Bootstrap with React using create-react-app`
 ![17-2_d.drawio.png](assets/17-2_d.drawio.png)
 
+<br/>
 
+### [17-3     Introduction To Components - HTML To React](https://classroom.emeritus.org/courses/1173/pages/video-17-3-17-4-7-49-introduction-to-components-html-to-react-and-web-components?module_item_id=290845)
 
-## Routing And The Single Page Application
+<br/>
 
-### [17-9         Introduction To Routing And The Single-Page Application](https://classroom.emeritus.org/courses/1173/pages/video-17-9-1-59-introduction-to-routing-and-the-single-page-application?module_item_id=290850)
+### [17-4      Web Components With Bootstrap](https://classroom.emeritus.org/courses/1173/pages/video-17-3-17-4-7-49-introduction-to-components-html-to-react-and-web-components?module_item_id=290845)
 
-important factors to consider when routing within the same page
+`Bootstrap card component with book table description`
+![17-4.drawio.png](assets/17-4.drawio.png)
 
- Single-Page Application(SPA):
-  SPA in browser gives similar user experience as is in a native desktop application.
-  Navigation is omitted by keeping the user on the same page once loaded.
-  UI and data updation is done by manipulating the same page.
-  Routing within a single page with no front-end framework is implemented simply using HTML and JavaScript.
+<br/>
 
-  Route using buttons and fetch the capability of browser to reach out and take content or bring content in. 
-  Some of the same page linking, we will be looking at browser events and URL access within JavaScript.
-  How do we route using location hash and how to provide the right history to the browser so that if you're moving back and forwards, the history works as users would expect it. We'll also look at some of the optimizations that you can do and some of the bumps that you might find if you're trying to create this for yourself. If, say you 
-were trying to create a library, again, once again, we are doing this simply to illustrate some of 
-the design decisions that those in the front-end frameworks have had to do. 
+### [17-5      Create Custom Element - Web Component](https://classroom.emeritus.org/courses/1173/pages/video-17-5-17-6-18-24-create-custom-element-web-component-and-create-web-components-programmatically?module_item_id=290846)
 
+`Custom web component: Extending the amount of tags recognized by the browser`
+![17-5.drawio.png](assets/17-5.drawio.png)
 
-### [17-10    Overview of Frameworks And Routing](https://classroom.emeritus.org/courses/1173/pages/video-17-10-17-11-10-20-overview-of-frameworks-and-routing-and-route-using-buttons?module_item_id=290852)
+<br/>
 
-information architecture: share information about an organization. 20 pages like About, Team, Contact, Products and Services.
-Historically independent pages linked together. May have site map to overview all the information on the site. Server round trip causes delay. Even 10th of a second has significant impact on user experience.
+### [17-6       Create Web Components Programmatically](https://classroom.emeritus.org/courses/1173/pages/video-17-5-17-6-18-24-create-custom-element-web-component-and-create-web-components-programmatically?module_item_id=290846)
+
+`Data in JSON list`
+![17-6.drawio.png](assets/17-6.drawio.png)
+
+<br/>
+
+### [17-7        React Components](https://classroom.emeritus.org/courses/1173/pages/video-17-7-17-8-20-27-react-components-and-web-components-in-react?module_item_id=290847)
+
+<br/>
+
+### [17-8         Web Components In React](https://classroom.emeritus.org/courses/1173/pages/video-17-7-17-8-20-27-react-components-and-web-components-in-react?module_item_id=290847)
+
+<br/>
+
+## Web Components And React Components
+
+### [17-9          Introduction To Routing And The Single-Page Application](https://classroom.emeritus.org/courses/1173/pages/video-17-9-1-59-introduction-to-routing-and-the-single-page-application?module_item_id=290850)
+
+<br/>
+
+### [17-10           Overview of Frameworks And Routing](https://classroom.emeritus.org/courses/1173/pages/video-17-10-17-11-10-20-overview-of-frameworks-and-routing-and-route-using-buttons?module_item_id=290852)
+
+<br/>
+
+### [17-11            Route Using Buttons](https://classroom.emeritus.org/courses/1173/pages/video-17-10-17-11-10-20-overview-of-frameworks-and-routing-and-route-using-buttons?module_item_id=290852)
+
+<br/>
+
+### [17-12             Same Page Linking](https://classroom.emeritus.org/courses/1173/pages/video-17-12-17-13-7-34-same-page-linking-and-listening-to-browser-events?module_item_id=290853)
+
+<br/>
+
+### [17-13              Listening To Browser Events](https://classroom.emeritus.org/courses/1173/pages/video-17-12-17-13-7-34-same-page-linking-and-listening-to-browser-events?module_item_id=290853)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
