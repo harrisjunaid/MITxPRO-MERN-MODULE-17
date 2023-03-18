@@ -64,9 +64,10 @@
 
 ## Web Components And React Components
 
-### [17-15  Route Using Location Hash](https://classroom.emeritus.org/courses/1173/pages/video-17-14-17-15-7-15-url-location-access-with-javascript-and-route-using-location-hash?module_item_id=290854)
+### [17-16   Building A Router](https://classroom.emeritus.org/courses/1173/pages/video-17-16-6-51-building-a-router?module_item_id=290856)
 
-![assets/17-15.drawio.png](assets/17-15.drawio.png)
+![assets/17-16.drawio.png](assets/17-16.drawio.png)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
