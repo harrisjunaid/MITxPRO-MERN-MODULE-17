@@ -88,8 +88,6 @@
 
 ### [17-3     Introduction To Components - HTML To React](https://classroom.emeritus.org/courses/1173/pages/video-17-3-17-4-7-49-introduction-to-components-html-to-react-and-web-components?module_item_id=290845)
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjY2ZmI3MWU2NDMzYjlhYmMxZDk5MjhlYzQzNjkxMzUxMjI4NmVkMyZjdD1n/XtnbHzh5BlLXhz0bTW/giphy.gif"/>
-
 https://user-images.githubusercontent.com/51511122/226081489-6937a35f-6fb4-4754-b2b8-25245e2c4bd9.mp4
 
 <br/>
