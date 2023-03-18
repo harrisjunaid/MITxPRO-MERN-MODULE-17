@@ -58,9 +58,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](./assets/https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](./assets/https://example.com) -->
 
 <br/>
+
+## Web Components And React Components
+
 
 ### [17-2    Styling Components With Bootstrap](https://classroom.emeritus.org/courses/1173/pages/video-17-1-17-2-13-35-introduction-to-styling-with-bootstrap-and-styling-components?module_item_id=290843)
 
@@ -124,9 +127,26 @@
 
 ### [17-10           Overview of Frameworks And Routing](https://classroom.emeritus.org/courses/1173/pages/video-17-10-17-11-10-20-overview-of-frameworks-and-routing-and-route-using-buttons?module_item_id=290852)
 
+Each page in a multiple-page information architecture example for exchanging business data was constructed independently and subsequently linked together. Pages may include "About," "Team," "Contact," "Products," and "Services". A site map to overview all of the information on the site could also be provided.
+
+This requirs round-triping to the server hence causes delay. Even 10th of a second causes a significant impact on user experience. 
+
+repeating information amongst all the pages eg NavBar than update is difficult. So a better solution is a centralized resource.
+
+routing:  mechanism that replaces the navigation between the different pages
+
+client-side routing: for adding and removing pages
+
+But many of the large frameworks are addressing many of the same design issues when it comes to routing; when it comes to state management; when 
+it comes to how you organize your code.
+
+So, ultimately, we're trying to provide a better experience to the user. And we're trying to create a more efficient design on our backhands as well. Even if in this case, our backend is, in fact, the front end
+
 <br/>
 
 ### [17-11            Route Using Buttons](https://classroom.emeritus.org/courses/1173/pages/video-17-10-17-11-10-20-overview-of-frameworks-and-routing-and-route-using-buttons?module_item_id=290852)
+
+
 
 <br/>
 
