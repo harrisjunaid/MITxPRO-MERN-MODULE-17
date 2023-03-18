@@ -64,9 +64,9 @@
 
 ## Web Components And React Components
 
-### [17-16   Building A Router](https://classroom.emeritus.org/courses/1173/pages/video-17-16-6-51-building-a-router?module_item_id=290856)
+### [17-17    Same Page Linking Limitation](https://classroom.emeritus.org/courses/1173/pages/video-17-17-17-18-12-20-same-page-linking-limitation-and-how-to-avoid-reloading-the-page?module_item_id=290857)
 
-![assets/17-16.drawio.png](assets/17-16.drawio.png)
+![assets/17-17.drawio.png](assets/17-17.drawio.png)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

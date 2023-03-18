@@ -8,7 +8,7 @@
 <body>
 
 <!-- ------------------ NAVBAR ------------------ -->
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Navbar</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -57,7 +57,6 @@
   <a href="#/blog" class="text-primary">Blog</a>, 
   <a href="#/pricing" class="text-primary">Pricing</a>  
   <div id="content"></div>
-
 </div>
 
 <script>
@@ -73,24 +72,58 @@
 
     async function router(){
         console.log(location.hash);
+        var innerElement = '';
 
         // get requested page
         var link = window.location.hash;
+
+        /**
+         ----------------------------------------
+         An element within the page is targeted:
+            If '/' are more than one in hash
+         ----------------------------------------
+         */
+
+        var count = (link.split("/").length - 1);  
+        console.log(link.split("/"));
+        console.log(link.split("/")[0], link.split("/")[1], link.split("/")[2]);      
+        if (count > 1) {
+            // anchor element 
+            innerElement = link.split("/")[2];            
+
+            // page to load
+            link = '#/' + link.split("/")[1];
+        }
 
         // get path (route) for page
         var route = routes[link];
 
         // if route exists, load page
-        if (route) loadPage(route);
+        if (route) loadPage(route, innerElement);
     };
     router();
 
-    async function loadPage(url){
+    /**
+   ----------------------------------------
+    First load page,
+    then scroll the element into view.
+    ----------------------------------------
+    */
+    async function loadPage(url, innerElement){
         // load page
         const res     = await fetch(url);
         const content = await res.text();
         const element = document.getElementById('content');
         element.innerHTML = content;
+
+        // element scroll into view
+        if (innerElement) {            
+            scrollIntoView(innerElement);
+        }        
+    }
+
+    function scrollIntoView(id){
+        document.getElementById(id).scrollIntoView();
     }
 
     window.addEventListener('hashchange', router);    
