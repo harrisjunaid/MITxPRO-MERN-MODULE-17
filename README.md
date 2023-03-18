@@ -58,66 +58,106 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](./assets/https://example.com)
-
-
-### [17-11            Route Using Buttons](https://classroom.emeritus.org/courses/1173/pages/video-17-10-17-11-10-20-overview-of-frameworks-and-routing-and-route-using-buttons?module_item_id=290852)
-
+<!-- [![Product Name Screen Shot][product-screenshot]](./assets/https://example.com) -->
 
 <br/>
 
-### [17-10           Overview of Frameworks And Routing](https://classroom.emeritus.org/courses/1173/pages/video-17-10-17-11-10-20-overview-of-frameworks-and-routing-and-route-using-buttons?module_item_id=290852)
+## Web Components And React Components
 
 
-<br/>
-
-### [17-9          Introduction To Routing And The Single-Page Application](https://classroom.emeritus.org/courses/1173/pages/video-17-9-1-59-introduction-to-routing-and-the-single-page-application?module_item_id=290850)
-
+### [17-2    Styling Components With Bootstrap](https://classroom.emeritus.org/courses/1173/pages/video-17-1-17-2-13-35-introduction-to-styling-with-bootstrap-and-styling-components?module_item_id=290843)
 
 <br/>
 
-### [17-8         Web Components In React](https://classroom.emeritus.org/courses/1173/pages/video-17-7-17-8-20-27-react-components-and-web-components-in-react?module_item_id=290847)
+`A) Bootstrap in HTML file standalone`
+![17-2_a.drawio.png](assets/17-2_a.drawio.png)
 
+
+`B) Bootstrap with React in HTML file standalone`
+![17-2_b.drawio.png](assets/17-2_b.drawio.png)
+
+
+`C) Bootstrap with React component`
+![17-2_c.drawio.png](assets/17-2_c.drawio.png)
+
+
+`D) Bootstrap with React using create-react-app`
+![17-2_d.drawio.png](assets/17-2_d.drawio.png)
 
 <br/>
 
-### [17-7        React Components](https://classroom.emeritus.org/courses/1173/pages/video-17-7-17-8-20-27-react-components-and-web-components-in-react?module_item_id=290847)
-
-
-<br/>
-
-
-### [17-6       Create Web Components Programmatically](https://classroom.emeritus.org/courses/1173/pages/video-17-5-17-6-18-24-create-custom-element-web-component-and-create-web-components-programmatically?module_item_id=290846)
-
-
-<br/>
-
-
-### [17-5      Create Custom Element - Web Component](https://classroom.emeritus.org/courses/1173/pages/video-17-5-17-6-18-24-create-custom-element-web-component-and-create-web-components-programmatically?module_item_id=290846)
-
+### [17-3     Introduction To Components - HTML To React](https://classroom.emeritus.org/courses/1173/pages/video-17-3-17-4-7-49-introduction-to-components-html-to-react-and-web-components?module_item_id=290845)
 
 <br/>
 
 ### [17-4      Web Components With Bootstrap](https://classroom.emeritus.org/courses/1173/pages/video-17-3-17-4-7-49-introduction-to-components-html-to-react-and-web-components?module_item_id=290845)
 
+`Bootstrap card component with book table description`
+![17-4.drawio.png](assets/17-4.drawio.png)
 
 <br/>
 
+### [17-5      Create Custom Element - Web Component](https://classroom.emeritus.org/courses/1173/pages/video-17-5-17-6-18-24-create-custom-element-web-component-and-create-web-components-programmatically?module_item_id=290846)
 
-### [17-3     Introduction To Components - HTML To React](https://classroom.emeritus.org/courses/1173/pages/video-17-3-17-4-7-49-introduction-to-components-html-to-react-and-web-components?module_item_id=290845)
-
-
-
+`Custom web component: Extending the amount of tags recognized by the browser`
+![17-5.drawio.png](assets/17-5.drawio.png)
 
 <br/>
 
-### [17-2    Styling Components With Bootstrap](https://classroom.emeritus.org/courses/1173/pages/video-17-1-17-2-13-35-introduction-to-styling-with-bootstrap-and-styling-components?module_item_id=290843)
+### [17-6       Create Web Components Programmatically](https://classroom.emeritus.org/courses/1173/pages/video-17-5-17-6-18-24-create-custom-element-web-component-and-create-web-components-programmatically?module_item_id=290846)
 
+`Data in JSON list`
+![17-6.drawio.png](assets/17-6.drawio.png)
+
+<br/>
+
+### [17-7        React Components](https://classroom.emeritus.org/courses/1173/pages/video-17-7-17-8-20-27-react-components-and-web-components-in-react?module_item_id=290847)
+
+<br/>
+
+### [17-8         Web Components In React](https://classroom.emeritus.org/courses/1173/pages/video-17-7-17-8-20-27-react-components-and-web-components-in-react?module_item_id=290847)
+
+<br/>
+
+## Web Components And React Components
+
+### [17-9          Introduction To Routing And The Single-Page Application](https://classroom.emeritus.org/courses/1173/pages/video-17-9-1-59-introduction-to-routing-and-the-single-page-application?module_item_id=290850)
+
+<br/>
+
+### [17-10           Overview of Frameworks And Routing](https://classroom.emeritus.org/courses/1173/pages/video-17-10-17-11-10-20-overview-of-frameworks-and-routing-and-route-using-buttons?module_item_id=290852)
+
+Each page in a multiple-page information architecture example for exchanging business data was constructed independently and subsequently linked together. Pages may include "About," "Team," "Contact," "Products," and "Services". A site map to overview all of the information on the site could also be provided.
+
+This requirs round-triping to the server hence causes delay. Even 10th of a second causes a significant impact on user experience. 
+
+repeating information amongst all the pages eg NavBar than update is difficult. So a better solution is a centralized resource.
+
+routing:  mechanism that replaces the navigation between the different pages
+
+client-side routing: for adding and removing pages
+
+But many of the large frameworks are addressing many of the same design issues when it comes to routing; when it comes to state management; when 
+it comes to how you organize your code.
+
+So, ultimately, we're trying to provide a better experience to the user. And we're trying to create a more efficient design on our backhands as well. Even if in this case, our backend is, in fact, the front end
+
+<br/>
+
+### [17-11            Route Using Buttons](https://classroom.emeritus.org/courses/1173/pages/video-17-10-17-11-10-20-overview-of-frameworks-and-routing-and-route-using-buttons?module_item_id=290852)
+
+ set up routing through a multi-button navigation menu on a single page.
+
+<br/>
+
+### [17-12             Same Page Linking](https://classroom.emeritus.org/courses/1173/pages/video-17-12-17-13-7-34-same-page-linking-and-listening-to-browser-events?module_item_id=290853)
+
+<br/>
+
+### [17-13              Listening To Browser Events](https://classroom.emeritus.org/courses/1173/pages/video-17-12-17-13-7-34-same-page-linking-and-listening-to-browser-events?module_item_id=290853)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
@@ -260,9 +300,9 @@ Useful resources:
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/harrisjunaid/MITxPRO-MERN-MODULE-17/blob/main/LICENSE.lic
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/harris-junaid/
 [product-screenshot]: ./assets/images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/

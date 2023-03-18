@@ -58,7 +58,12 @@
 </div>
 
 <script>
-
+    /**
+     * const content = fetch(page) and convert to .text()
+     * const element = get element "content" //handle on current page for <div class content>
+     * 
+     * element = content;
+     */  
     async function loadPage(page){
         const res     = await fetch(page);
         const content = await res.text();
