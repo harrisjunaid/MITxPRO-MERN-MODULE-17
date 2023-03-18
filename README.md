@@ -64,7 +64,7 @@
 
 ## Web Components And React Components
 
-### [17-17    Same Page Linking Limitation](https://classroom.emeritus.org/courses/1173/pages/video-17-17-17-18-12-20-same-page-linking-limitation-and-how-to-avoid-reloading-the-page?module_item_id=290857)
+### [17-18     How To Avoid Reloading The Page](https://classroom.emeritus.org/courses/1173/pages/video-17-17-17-18-12-20-same-page-linking-limitation-and-how-to-avoid-reloading-the-page?module_item_id=290857)
 
 ![assets/17-17.drawio.png](assets/17-17.drawio.png)
 
