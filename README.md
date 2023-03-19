@@ -66,6 +66,12 @@
 
 ### [17-18     How To Avoid Reloading The Page](https://classroom.emeritus.org/courses/1173/pages/video-17-17-17-18-12-20-same-page-linking-limitation-and-how-to-avoid-reloading-the-page?module_item_id=290857)
 
+
+
+https://user-images.githubusercontent.com/51511122/226150264-554950a1-0d87-4715-b79d-14183a934cd0.mp4
+
+
+
 NOTE: var history is changed to var current because of predefined History object
 
 ![assets/17-17.drawio.png](assets/17-17.drawio.png)
