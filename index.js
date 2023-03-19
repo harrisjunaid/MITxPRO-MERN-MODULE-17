@@ -1,7 +1,13 @@
 function App(){
+    /**
+     * setData is called after fetching data from json file
+     * setLoaded is called after setData
+     */
     const [data, setData] = React.useState(null);        
     const [loaded, setLoaded] = React.useState(false);
-
+    /**
+     * fetch JSON and call setData and setLoaded
+     */
     React.useEffect(() => {
         async function getData() {
             const response = await fetch('./books.json');
