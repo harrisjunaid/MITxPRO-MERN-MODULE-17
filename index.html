@@ -59,7 +59,7 @@
     </div>
 
     <script>
-      var history = '';
+      var current = '';
 
       var routes = {
           '':          'home.html',     
@@ -96,20 +96,24 @@
            page re-render is avoided if navigating 
             within the loaded page
             ----------------------------------------       
-            loaded page is remembered in 'history'
+            loaded page is remembered in 'current'
             
-            if 'history' is same as 'link' //page to load
+            if 'current' is same as 'link' //page to load
             && 'innerElement' is present //element within page  
               scroll to innerElement
-              update history and return 
+              update current and return 
             ---------------------------------------- 
             */
-          if (history === link && innerElement){
+          if (current === link && innerElement){
+              console.log("current:", current);
+              console.log("link:", link);
               scrollIntoView(innerElement);
-              history = link;
+              
+              current = link;
               return;            
           }
-          history = link;  
+          current = link; 
+              
 
           // get path (route) for page
           var route = routes[link];
