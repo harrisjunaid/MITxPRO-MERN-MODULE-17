@@ -75,7 +75,7 @@ https://user-images.githubusercontent.com/51511122/226150264-554950a1-0d87-4715-
 
 NOTE: var history is changed to var current because of predefined History object
 
-![assets/17-17.drawio.png](assets/17-17.drawio.png)
+![assets/17-18.drawio.png](assets/17-18.drawio.png)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
