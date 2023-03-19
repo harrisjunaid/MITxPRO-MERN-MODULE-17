@@ -17,8 +17,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="./assets/images/logo.png" alt="Logo" width="80" height="80">
+  <a href="#">
+    <img src="./assets/images/logo.png" alt="Logo" width="100" >
   </a>
 
   <h3 align="center">Module 17: Working With React Components</h3>
@@ -28,7 +28,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
+<!-- <details> -->
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -91,19 +91,19 @@ Major frameworks/libraries:
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+<!-- ## Getting Started
 
-instructions for settingup locally
+instructions for settingup locally -->
 
-### Prerequisites
+<!-- ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
   npm install npm@latest -g
-  ```
+  ``` -->
 
-### Installation
+<!-- ### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
@@ -121,23 +121,23 @@ _Below is an example of how you can instruct your audience on installing and set
    const API_KEY = 'ENTER YOUR API';
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+<!-- ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
 <!-- ROADMAP -->
-## Roadmap
+<!-- ## Roadmap
 
 - [x] Add Changelog
 - [x] Add back to top links
@@ -149,7 +149,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
@@ -167,18 +167,18 @@ Distributed under the MIT License. See `LICENSE.lic` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+<!-- ## Contact
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- ## Acknowledgments
 
 Useful resources:
 
@@ -189,7 +189,7 @@ Useful resources:
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [React Icons](https://react-icons.github.io/react-icons/search) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
